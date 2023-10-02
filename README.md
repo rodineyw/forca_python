@@ -1,10 +1,10 @@
-# Jogo da Forca em Python
+# Jogo da Forca em Python.
 
 Este é um jogo da forca simples implementado em Python usando a biblioteca Tkinter para a interface gráfica.
 
 ![Screenshot do Jogo](img/interface.png)
 
-## Como Jogar
+## Como Jogar 🎮
 
 1. Ao iniciar o jogo, uma palavra secreta é escolhida aleatoriamente a partir de uma lista de palavras pré-definidas.
 
@@ -16,7 +16,7 @@ Este é um jogo da forca simples implementado em Python usando a biblioteca Tkin
 
 5. O jogador perde o jogo se as tentativas acabarem antes de adivinhar a palavra secreta.
 
-## Como Executar
+## Como Executar 🚀
 
 Certifique-se de ter Python instalado em seu sistema. Você também precisará da biblioteca Tkinter, que geralmente já está incluída na instalação padrão do Python.
 
@@ -38,18 +38,18 @@ Certifique-se de ter Python instalado em seu sistema. Você também precisará d
    python jogo_da_forca.py
    ```
 
-## Personalização
+## Personalização 💅
 
 Você pode personalizar o jogo adicionando mais palavras à lista `palavras` no arquivo `forca.py`. Isso tornará o jogo mais interessante com uma variedade de palavras secretas possíveis.
 
-## Contribuições
+## Contribuições 🙋
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
 
-## Autor
+## Autor 👔
 
 Este jogo foi desenvolvido por [Ródiney Wanderson](https://github.com/rodineyw).
 
-## Licença
+## Licença 📚
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
