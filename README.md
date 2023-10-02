@@ -40,7 +40,7 @@ Certifique-se de ter Python instalado em seu sistema. Você também precisará d
 
 ## Personalização
 
-Você pode personalizar o jogo adicionando mais palavras à lista `palavras` no arquivo `jogo_da_forca.py`. Isso tornará o jogo mais interessante com uma variedade de palavras secretas possíveis.
+Você pode personalizar o jogo adicionando mais palavras à lista `palavras` no arquivo `forca.py`. Isso tornará o jogo mais interessante com uma variedade de palavras secretas possíveis.
 
 ## Contribuições
 
