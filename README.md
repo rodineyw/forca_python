@@ -1,7 +1,7 @@
 # Projeto Python Iniciante - Jogo da Forca.
 
 <figure>
-  <img src="interface.png" alt="Jogo da Forca">
+  <img src="/img/interface.png" alt="Jogo da Forca">
  <figcaption>Interface do game</figcaption>
 </figure>
 
