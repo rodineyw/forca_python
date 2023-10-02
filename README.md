@@ -48,7 +48,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ## Autor
 
-Este jogo foi desenvolvido por [Seu Nome](https://github.com/rodineyw).
+Este jogo foi desenvolvido por [Ródiney Wanderson](https://github.com/rodineyw).
 
 ## Licença
 
