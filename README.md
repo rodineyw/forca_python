@@ -50,6 +50,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 Este jogo foi desenvolvido por [Ródiney Wanderson](https://github.com/rodineyw).
 
-## Licença 📚
+## Licença 🪪
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
